@@ -14,7 +14,7 @@ const Header = () => {
 
         {/* Right: Navigation Links */}
         <ul className="md:flex space-x-6">
-          <a href='' target='_blank'><button  className='px-3 py-1 bg-black flex items-center gap-2 border rounded-md cursor-pointer'><Github size={16}/>Github</button></a>
+          <a href='https://github.com/Somilg11/ENHANCE' target='_blank'><button  className='px-3 py-1 bg-black flex items-center gap-2 border rounded-md cursor-pointer'><Github size={16}/>Github</button></a>
         </ul>
 
         {/* Mobile Menu Placeholder (optional) */}
